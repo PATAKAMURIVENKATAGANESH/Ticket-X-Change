@@ -60,8 +60,3 @@ mvn spring-boot:run
 4. Push to your branch
 5. Create a Pull Request
 
-## 📜 License
-This project is **MIT Licensed**. Feel free to use and modify as needed.
-
-## 📞 Contact
-For any queries, reach out to **[your email/LinkedIn/GitHub]**.
