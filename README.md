@@ -53,10 +53,3 @@ mvn spring-boot:run
 - `GET /api/v1/tickets/buy` - Browse available tickets
 - `POST /api/v1/tickets/verify` - Verify ticket authenticity
 
-## 📌 Contributing
-1. Fork the repository
-2. Create a new branch (`feature-branch`)
-3. Commit your changes
-4. Push to your branch
-5. Create a Pull Request
-
